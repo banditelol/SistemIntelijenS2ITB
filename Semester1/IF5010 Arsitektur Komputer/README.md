@@ -1,5 +1,7 @@
 # IF5010 Sistem dan Arsitektur Komputer
-Dosen :
+Dosen : Pak Afwarman
+
+Berdasarkan Haris, dalam mata kuliah ini kita akan belajar sejarah processor & optimisasinya, gak ada UTS UAS tapi nanti presentasi tentang perkembangan sistem & arsitektur komputer terbaru.
 
 ## Buku
 
